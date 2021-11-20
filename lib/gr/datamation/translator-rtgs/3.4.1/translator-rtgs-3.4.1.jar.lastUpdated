@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 20 11:06:27 CET 2021
+@default-paymentcomponents-https\://nexus.paymentcomponents.com/repository/public/.lastUpdated=1637402787280
+https\://repo.maven.apache.org/maven2/.lastUpdated=1637402787801
+https\://nexus.paymentcomponents.com/repository/public/.error=Could not transfer artifact gr.datamation\:translator-rtgs\:jar\:3.4.1 from/to paymentcomponents (https\://nexus.paymentcomponents.com/repository/public)\: Transfer failed for https\://nexus.paymentcomponents.com/repository/public/gr/datamation/translator-rtgs/3.4.1/translator-rtgs-3.4.1.jar
+https\://repo.maven.apache.org/maven2/.error=
